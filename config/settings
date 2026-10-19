@@ -1,1 +1,10 @@
+# Конфигурационные настройки
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+SCREEN_TITLE = "Procedural World Generation"
+
+# Настройки генерации мира
+WORLD_SIZE = 1000
+BIOME_COUNT = 5
+CAVE_COUNT = 3
 
