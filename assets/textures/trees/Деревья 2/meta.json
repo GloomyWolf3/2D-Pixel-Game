@@ -1,0 +1,372 @@
+{
+  "name": "Деревья 2",
+  "created": "2026-10-17T21:42:18",
+  "version": 2,
+  "trees": {
+    "oak": {
+      "files": [
+        "oak_0.png",
+        "oak_1.png",
+        "oak_2.png",
+        "oak_3.png",
+        "oak_4.png",
+        "oak_5.png",
+        "oak_6.png",
+        "oak_7.png"
+      ],
+      "params": {
+        "size_w": 96,
+        "size_h": 128,
+        "trunk_w": 10,
+        "trunk_h": 108,
+        "trunk_taper": 0.6000000000000001,
+        "trunk_color": [
+          110,
+          70,
+          40
+        ],
+        "trunk_dark_shift": 0.25,
+        "trunk_light_shift": 0.2,
+        "bark_lines": true,
+        "branches": 6,
+        "branch_angle": 40,
+        "branch_len": 26,
+        "branch_thickness": 2,
+        "crown_type": "round",
+        "crown_w": 80,
+        "crown_h": 117,
+        "crown_y_offset": -23,
+        "crown_fill": 0.8076923076923077,
+        "crown_holes": 0.37230769230769234,
+        "crown_irregularity": 0.6653846153846154,
+        "leaf_color": [
+          60,
+          140,
+          50
+        ],
+        "leaf_color2": [
+          90,
+          170,
+          70
+        ],
+        "leaf_dark_shift": 0.3,
+        "leaf_light_shift": 0.3,
+        "leaf_pixel": 4,
+        "seed": 0,
+        "variants_count": 8,
+        "var_trunk_h": [
+          50,
+          90
+        ],
+        "var_crown_w": [
+          60,
+          100
+        ],
+        "var_crown_h": [
+          50,
+          90
+        ],
+        "var_crown_irregularity": [
+          0.2,
+          0.6
+        ],
+        "var_crown_holes": [
+          0.1,
+          0.3
+        ]
+      }
+    },
+    "pine": {
+      "files": [
+        "pine_0.png",
+        "pine_1.png",
+        "pine_2.png",
+        "pine_3.png",
+        "pine_4.png",
+        "pine_5.png",
+        "pine_6.png",
+        "pine_7.png"
+      ],
+      "params": {
+        "size_w": 88,
+        "size_h": 144,
+        "trunk_w": 6,
+        "trunk_h": 130,
+        "trunk_taper": 0.8,
+        "trunk_color": [
+          90,
+          60,
+          40
+        ],
+        "trunk_dark_shift": 0.25,
+        "trunk_light_shift": 0.2,
+        "bark_lines": true,
+        "branches": 0,
+        "branch_angle": 0,
+        "branch_len": 0,
+        "branch_thickness": 0,
+        "crown_type": "cone",
+        "crown_w": 52,
+        "crown_h": 118,
+        "crown_y_offset": -18,
+        "crown_fill": 0.8153846153846154,
+        "crown_holes": 0.2830769230769231,
+        "crown_irregularity": 1.0,
+        "leaf_color": [
+          30,
+          90,
+          50
+        ],
+        "leaf_color2": [
+          55,
+          125,
+          65
+        ],
+        "leaf_dark_shift": 0.3,
+        "leaf_light_shift": 0.3,
+        "leaf_pixel": 4,
+        "seed": 0,
+        "variants_count": 8,
+        "var_trunk_h": [
+          50,
+          90
+        ],
+        "var_crown_w": [
+          60,
+          100
+        ],
+        "var_crown_h": [
+          50,
+          90
+        ],
+        "var_crown_irregularity": [
+          0.2,
+          0.6
+        ],
+        "var_crown_holes": [
+          0.1,
+          0.3
+        ]
+      }
+    },
+    "birch": {
+      "files": [
+        "birch_0.png",
+        "birch_1.png",
+        "birch_2.png",
+        "birch_3.png",
+        "birch_4.png",
+        "birch_5.png",
+        "birch_6.png",
+        "birch_7.png"
+      ],
+      "params": {
+        "size_w": 64,
+        "size_h": 128,
+        "trunk_w": 6,
+        "trunk_h": 90,
+        "trunk_taper": 0.8,
+        "trunk_color": [
+          230,
+          225,
+          210
+        ],
+        "trunk_dark_shift": 0.25,
+        "trunk_light_shift": 0.2,
+        "bark_lines": true,
+        "branches": 10,
+        "branch_angle": 59,
+        "branch_len": 10,
+        "branch_thickness": 1,
+        "crown_type": "narrow",
+        "crown_w": 82,
+        "crown_h": 107,
+        "crown_y_offset": -18,
+        "crown_fill": 0.8346153846153846,
+        "crown_holes": 0.35692307692307695,
+        "crown_irregularity": 0.6269230769230769,
+        "leaf_color": [
+          120,
+          180,
+          70
+        ],
+        "leaf_color2": [
+          160,
+          210,
+          90
+        ],
+        "leaf_dark_shift": 0.3,
+        "leaf_light_shift": 0.3,
+        "leaf_pixel": 3,
+        "seed": 0,
+        "variants_count": 8,
+        "var_trunk_h": [
+          50,
+          90
+        ],
+        "var_crown_w": [
+          60,
+          100
+        ],
+        "var_crown_h": [
+          50,
+          90
+        ],
+        "var_crown_irregularity": [
+          0.2,
+          0.6
+        ],
+        "var_crown_holes": [
+          0.1,
+          0.3
+        ]
+      }
+    },
+    "palm": {
+      "files": [
+        "palm_0.png",
+        "palm_1.png",
+        "palm_2.png",
+        "palm_3.png",
+        "palm_4.png",
+        "palm_5.png",
+        "palm_6.png",
+        "palm_7.png"
+      ],
+      "params": {
+        "size_w": 112,
+        "size_h": 144,
+        "trunk_w": 5,
+        "trunk_h": 110,
+        "trunk_taper": 0.8,
+        "trunk_color": [
+          140,
+          100,
+          60
+        ],
+        "trunk_dark_shift": 0.25,
+        "trunk_light_shift": 0.2,
+        "bark_lines": true,
+        "branches": 0,
+        "branch_angle": 0,
+        "branch_len": 0,
+        "branch_thickness": 0,
+        "crown_type": "palm",
+        "crown_w": 145,
+        "crown_h": 71,
+        "crown_y_offset": -30,
+        "crown_fill": 0.9730769230769231,
+        "crown_holes": 0.3938461538461539,
+        "crown_irregularity": 0.15384615384615385,
+        "leaf_color": [
+          60,
+          130,
+          60
+        ],
+        "leaf_color2": [
+          90,
+          165,
+          75
+        ],
+        "leaf_dark_shift": 0.3,
+        "leaf_light_shift": 0.3,
+        "leaf_pixel": 4,
+        "seed": 0,
+        "variants_count": 8,
+        "var_trunk_h": [
+          50,
+          90
+        ],
+        "var_crown_w": [
+          60,
+          100
+        ],
+        "var_crown_h": [
+          50,
+          90
+        ],
+        "var_crown_irregularity": [
+          0.2,
+          0.6
+        ],
+        "var_crown_holes": [
+          0.1,
+          0.3
+        ]
+      }
+    },
+    "bush": {
+      "files": [
+        "bush_0.png",
+        "bush_1.png",
+        "bush_2.png",
+        "bush_3.png",
+        "bush_4.png",
+        "bush_5.png",
+        "bush_6.png",
+        "bush_7.png"
+      ],
+      "params": {
+        "size_w": 48,
+        "size_h": 48,
+        "trunk_w": 3,
+        "trunk_h": 29,
+        "trunk_taper": 0.0,
+        "trunk_color": [
+          110,
+          70,
+          40
+        ],
+        "trunk_dark_shift": 0.25,
+        "trunk_light_shift": 0.2,
+        "bark_lines": true,
+        "branches": 0,
+        "branch_angle": 80,
+        "branch_len": 11,
+        "branch_thickness": 0,
+        "crown_type": "bush",
+        "crown_w": 77,
+        "crown_h": 42,
+        "crown_y_offset": -19,
+        "crown_fill": 0.7961538461538461,
+        "crown_holes": 0.36923076923076925,
+        "crown_irregularity": 0.3,
+        "leaf_color": [
+          60,
+          140,
+          50
+        ],
+        "leaf_color2": [
+          90,
+          170,
+          70
+        ],
+        "leaf_dark_shift": 0.3,
+        "leaf_light_shift": 0.3,
+        "leaf_pixel": 4,
+        "seed": 0,
+        "variants_count": 8,
+        "var_trunk_h": [
+          50,
+          90
+        ],
+        "var_crown_w": [
+          60,
+          100
+        ],
+        "var_crown_h": [
+          50,
+          90
+        ],
+        "var_crown_irregularity": [
+          0.2,
+          0.6
+        ],
+        "var_crown_holes": [
+          0.1,
+          0.3
+        ]
+      }
+    }
+  }
+}
